@@ -1,0 +1,19 @@
+{
+  "name": "سجل التلاميذ 2026-2027",
+  "short_name": "سجل التلاميذ",
+  "description": "تطبيق البحث والفلترة في سجل تلاميذ المؤسسة",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#0b5ed7",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
